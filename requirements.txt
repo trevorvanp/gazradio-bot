@@ -1,0 +1,4 @@
+nextcord
+ffmpeg-python
+python-dotenv
+PyNaCl
